@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestSuite3]">
+  <test name="Lufthansas(failed)">
+    <classes>
+      <class name="com.lufthansa.bookings.Test3">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="test3"/>
+          <include name="tearDown"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- com.lufthansa.bookings.Test3 -->
+    </classes>
+  </test> <!-- Lufthansas(failed) -->
+</suite> <!-- Failed suite [TestSuite3] -->

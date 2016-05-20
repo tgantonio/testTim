@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite3" duration-ms="26590" started-at="2016-05-15T10:25:48Z" finished-at="2016-05-15T10:26:15Z">
+    <groups>
+    </groups>
+    <test name="Lufthansas" duration-ms="26590" started-at="2016-05-15T10:25:48Z" finished-at="2016-05-15T10:26:15Z">
+      <class name="com.lufthansa.bookings.Test3">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.lufthansa.bookings.Test3@7c75222b]" name="beforeClass" is-config="true" duration-ms="9498" started-at="2016-05-15T11:25:48Z" finished-at="2016-05-15T11:25:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.lufthansa.bookings.Test3@7c75222b]" name="test3" duration-ms="13859" started-at="2016-05-15T11:25:58Z" finished-at="2016-05-15T11:26:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.lufthansa.bookings.Test3@7c75222b]" name="tearDown" is-config="true" duration-ms="404" started-at="2016-05-15T11:26:12Z" finished-at="2016-05-15T11:26:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test3 status=SUCCESS method=Test3.test3()[pri:0, instance:com.lufthansa.bookings.Test3@7c75222b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.lufthansa.bookings.Test3@7c75222b]" name="afterClass" is-config="true" duration-ms="2811" started-at="2016-05-15T11:26:12Z" finished-at="2016-05-15T11:26:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.lufthansa.bookings.Test3 -->
+    </test> <!-- Lufthansas -->
+  </suite> <!-- TestSuite3 -->
+</testng-results>

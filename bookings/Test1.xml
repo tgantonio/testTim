@@ -1,0 +1,24 @@
+<suite name = "TestSuite1">
+
+	<test name = "Lufthansas" preserve-order="true">
+		
+		<classes>
+			<class name = "com.lufthansa.bookings.Test1">
+				
+				<!--  <methods>
+					
+					<include name ="beforeClass"/>
+					<include name = "test"/>
+				
+				</methods>-->
+								
+			</class>
+		
+		</classes>
+	
+	</test>
+
+</suite>
+
+
+<!-- to comment -->
